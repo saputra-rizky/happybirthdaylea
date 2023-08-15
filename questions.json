@@ -1,0 +1,107 @@
+[
+    {
+        "question" : "Lea Ayu Utari, siapa pacar sekaligus calon suami anda?",
+        "choice1" : "Park Chanyeol",
+        "choice2" : "PCY",
+        "choice3" : "Rizky Saputra",
+        "choice4" : "Rizky Chanyeol Saputra",
+        "answer" : 3,
+        "correctPopup": "Nah gitu dong. Gantengan juga guah.",
+        "wrongPopup": "Ai lu mah, yang bener ge :("
+    },
+    {
+        "question" : "Nah, gitu dong. Tanggal berapa kalian jadian?",
+        "choice1" : "22 November 2022",
+        "choice2" : "2391 SM",
+        "choice3" : "18 Oktober 2008",
+        "choice4" : "22 November 2023",
+        "answer" : 1,
+        "correctPopup": "betul sekali every badeh, hehe",
+        "wrongPopup": "ai, lu mah, jangan ngasal ge"
+    },
+    {
+        "question" : "hehe, siapa yang suka duluan?",
+        "choice1" : "Lea",
+        "choice2" : "Sapu",
+        "choice3" : "Lea Ayu Utari",
+        "choice4" : "Ayu (bukan temen lea)",
+        "answer" : 2,
+        "correctPopup": "ai? iya gitu? wkwk",
+        "wrongPopup": "i love u first ge"
+    },
+    {
+        "question" : "terus, dimana tempat kita ketemu pertama kali? JAWAB!",
+        "choice1" : "Singapur :)",
+        "choice2" : "Bandung, ai",
+        "choice3" : "RAMEN YA :(",
+        "choice4" : "O'Good Coffee, Grogol tercintah",
+        "answer" : 4,
+        "correctPopup": "iya maaf ge gua telat dikit :(",
+        "wrongPopup": "naon aih sia, salah!"
+
+    },
+    {
+        "question" : "apa kesan ketika pertama kali ketemu sapu?",
+        "choice1" : "Ganteng kek chanyeol",
+        "choice2" : "eh pu, maaf, ada upil",
+        "choice3" : "Mirip D.O.",
+        "choice4" : "boyband banget pokoknya mah",
+        "answer" : 2,
+        "correctPopup": "yauda si dikit je upilnya :(",
+        "wrongPopup": "ya aku tau sih kalo aku ganteng, tapi, merendah dulu aja deh :)"
+
+    },
+    {
+        "question" : "apa alasan kedua sapu maen ke jakarta? hehehehehe",
+        "choice1" : "vantu lea ngerjain draw.io :)",
+        "choice2" : "mukul lea :)",
+        "choice3" : "minta makan",
+        "choice4" : "iseng je",
+        "answer" : 1,
+        "correctPopup": "hehe yauda si :)) kan....",
+        "wrongPopup": "ai wkwkwk ngaco"
+
+    },
+    {
+        "question" : "pas naik TJ, Lea bercita-cita nyasar ke?",
+        "choice1" : "jonggol",
+        "choice2" : "bandong",
+        "choice3" : "Lebak Bulus :)",
+        "choice4" : "tempat arul",
+        "answer" : 3,
+        "correctPopup": "GBK GBK GBK :) maskernya dipake mas :) maaf itu tempat cewek mas :)",
+        "wrongPopup": "aih gbk :)"
+
+    },
+    {
+        "question" : "apa yang membuat sapu suka sama Lea saat pertama kali ketika VC?",
+        "choice1" : "asik orangnya :)",
+        "choice2" : "karna dia suka sama awak :)",
+        "choice3" : "karna jago mobel lejen :)",
+        "choice4" : "karna hapenya iphone :)",
+        "answer" : 1,
+        "correctPopup": "aih bukannya lu duluan yang suka ya? wkwk",
+        "wrongPopup": "hmm :) ngawur"
+
+    },
+    {
+        "question" : "kemana tempat Lea dan Sapu berkencan pertama kali di bandung? :)",
+        "choice1" : "Borma :)",
+        "choice2" : "Orchid Forest pas ujan2 :)",
+        "choice3" : "tempat bi Ine, ai :)",
+        "choice4" : "Indomaret :)",
+        "answer" : 2,
+        "correctPopup": "dingin banget ya? masi inget banget aku vibesnya :)",
+        "wrongPopup": "sbnrnya ada jawaban lain sih :) tapi yauda lah ya haha"
+
+    },
+    {
+        "question" : "apa yang membuat Sapu jatuh cinta sama Lea?",
+        "choice1" : "matanya, senyumnya, cantiknya :)",
+        "choice2" : "pribadi yang kuat, lembut, dan sangat perhatian :)",
+        "choice3" : "pinternya, ambisinya :)",
+        "choice4" : "segala aspek yang ada di dirinya :)",
+        "answer" : "*",
+        "correctPopup": "semuanya syg :) semuanya :) I LOVE YOU :)"
+    }
+]
